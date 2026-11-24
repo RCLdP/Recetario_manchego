@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rezeptbuch aus der Mancha</string>
+    <string name="titulo_lista">Traditionelle Rezepte</string>
+    <string name="volver">Zurück</string>
+    <string name="ver_receta_completa">Vollständiges Rezept ansehen</string>
+    <string name="titulo_ingredientes">Zutaten</string>
+    <string name="titulo_elaboracion">Verfahren</string>
+    <string name="resumen_receta">%1$d min | %2$s | %3$s</string>
+    <string name="resumen_corto">%1$d min | %2$s</string>
+    <string name="comarca_formato">Region: %1$s</string>
+    <string name="cd_foto_receta">Fotografie von %1$s</string>
+    <string name="receta_no_encontrada">Das angeforderte Rezept wurde nicht gefunden.</string>
+    <string name="dificultad_facil">Einfach</string>
+    <string name="dificultad_media">Mittel</string>
+    <string name="dificultad_alta">Schwierig</string>
+
+    <!-- Mejora 1: Favoritas -->
+    <string name="marcar_favorita">Zu Favoriten hinzufügen</string>
+    <string name="quitar_favorita">Aus Favoriten entfernen</string>
+
+    <!-- Mejora 2: Buscador -->
+    <string name="buscar_receta">Rezept suchen</string>
+    <string name="cd_buscar">Suchen</string>
+    <string name="cd_borrar_busqueda">Suche löschen</string>
+    <string name="sin_resultados">Es wurden keine Rezepte gefunden, die zu diesem Namen passen.</string>
+</resources>
